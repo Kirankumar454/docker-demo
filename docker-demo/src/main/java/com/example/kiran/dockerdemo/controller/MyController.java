@@ -8,7 +8,7 @@ public class MyController {
 	
 	@GetMapping("/test-docker")
 	public String getData() {
-		return "Welcome to docker image1";
+		return "Welcome to docker image1 to image";
 		
 	}
 
